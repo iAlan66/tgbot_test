@@ -160,4 +160,4 @@ cython_debug/
 .idea/
 
 # 一些文件
-!/config.yml
+config.yml
