@@ -1,3 +1,4 @@
+# -*- coding: UTF-8 -*-
 import ruamel.yaml
 import requests
 
@@ -5,7 +6,7 @@ import telebot
 
 if __name__ == '__main__':
     yaml = ruamel.yaml.YAML()
-    with open('config.yml.simple', encoding="utf-8") as f:
+    with open('config.yml', encoding="utf-8") as f:
         data = yaml.load(f)
     tg_token = data['tg_token']
     bot = telebot.TeleBot(tg_token)
