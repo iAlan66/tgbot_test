@@ -1,6 +1,5 @@
 import ruamel.yaml
 import requests
-import json
 
 import telebot
 

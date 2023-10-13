@@ -1,0 +1,4 @@
+pyTelegramBotAPI==4.14.0
+pyTelegramBotAPI==4.14.0
+Requests==2.31.0
+ruamel.base==1.0.0
