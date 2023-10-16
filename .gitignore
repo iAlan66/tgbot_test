@@ -161,3 +161,5 @@ cython_debug/
 
 # 一些文件
 config.yml
+
+test

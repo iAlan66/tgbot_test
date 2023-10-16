@@ -1,2 +1,3 @@
 # 将文件重命名为 config.yml
 tg_token: '请输入你的tg_token'
+chat_id: '请输入需要定时任务需要发送到的对话的 chat_id'
